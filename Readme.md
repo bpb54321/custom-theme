@@ -41,6 +41,7 @@ Short video explaining how the Internet works, servers, PHP.
 ## Challenge 4
 * Enqueue our custom style sheet: https://developer.wordpress.org/themes/basics/including-css-javascript/
 * Make the title text be white and be centered over the image.
+* Make the image stretch the width of the window.
 
 ## Challenge 5
 * Add a custom font from Google Fonts.
