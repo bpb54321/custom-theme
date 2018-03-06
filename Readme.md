@@ -25,11 +25,12 @@ Short video explaining how the Internet works, servers, PHP.
 * Add `wp_head();` to header.php.
 * Add `wp_footer();` in footer.php.
 * Print out the site title using `get_bloginfo('name');`
-* Create a Home page, add content, and print that content out in your template.
+* Create a Home page, add a title and content.
+* Print out the title and the content on your page using: the WordPress functions (template tags) found on this page: https://developer.wordpress.org/themes/basics/the-loop/#what-the-loop-can-display
 
 ## Challenge 2
-* Enable feature images.
-* Add feature image to the home page.
+* Enable feature images using instructions on this page: https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
+* Upload a feature image to the home page.
 * Print out feature image in index.php.
 
 ## Challenge 3
