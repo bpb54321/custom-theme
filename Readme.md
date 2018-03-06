@@ -39,7 +39,7 @@ Short video explaining how the Internet works, servers, PHP.
 * Print out that menu in header.php. 
 
 ## Challenge 4
-* Enqueue our custom style sheet: 
+* Enqueue our custom style sheet: https://developer.wordpress.org/themes/basics/including-css-javascript/
 * Make the title text be white and be centered over the image.
 
 ## Challenge 5
