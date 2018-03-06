@@ -46,8 +46,4 @@ Short video explaining how the Internet works, servers, PHP.
 ## Challenge 5
 * Add a custom font from Google Fonts.
 
-## Challenge 6 
-* Add a custom preview image for your theme: 
-* Take a screenshot that is in PNG file format. The recommended image size is 1200px wide by 900px tall.
-
 
