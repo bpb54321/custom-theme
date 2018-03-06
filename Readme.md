@@ -11,7 +11,9 @@
 * You have a nice product that you can show to other people!
 
 ## Background
-Short video explaining how the Internet works, servers, PHP.
+* Lynda.com: Web Development Foundations: Web Technologies: The importance of PHP 
+* https://www.lynda.com/Web-Foundations-tutorials/importance-PHP/158666/158696-4.html
+
 
 ## Setup
 * Install a new website on your Domains account / Setup a new Domains account.
