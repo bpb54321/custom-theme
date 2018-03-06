@@ -7,6 +7,7 @@
 	<?php $blog_name = get_bloginfo('name'); ?>
 	<title><?php echo $blog_name; ?></title>
 	<?php wp_head(); ?>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
 </head>
 <body>
 	<header>

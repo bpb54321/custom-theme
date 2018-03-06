@@ -8,6 +8,10 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+html {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
 .menu {
   margin-top: 0;
   margin-bottom: 0;
@@ -20,6 +24,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 .hero__image {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 .hero__overlay {
