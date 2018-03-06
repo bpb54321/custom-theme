@@ -11,8 +11,8 @@
 * You have a nice product that you can show to other people!
 
 ## Background
-* Lynda.com: Web Development Foundations: Web Technologies: The importance of PHP 
-* https://www.lynda.com/Web-Foundations-tutorials/importance-PHP/158666/158696-4.html
+* Lynda.com: Web Development Foundations: Web Technologies: The importance of PHP https://www.lynda.com/Web-Foundations-tutorials/importance-PHP/158666/158696-4.html
+* Code.org: How the Internet Works https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7
 
 
 ## Setup
