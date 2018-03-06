@@ -34,6 +34,7 @@ Short video explaining how the Internet works, servers, PHP.
 * Print out feature image in index.php.
 
 ## Challenge 3
+* Add a menu location to the theme called 'Primary Menu': https://developer.wordpress.org/themes/functionality/navigation-menus/
 * Add a navigation menu with a home link to header.php.
 * Add a Created by year in footer.php.
 
