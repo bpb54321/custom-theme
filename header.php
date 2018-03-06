@@ -9,3 +9,13 @@
 	<?php wp_head(); ?>
 </head>
 <body>
+	<header>
+		<nav>
+			<?php
+				$args = array( 
+					'theme_location' => 'primary-menu'
+				);
+				wp_nav_menu( $args );
+			?>
+		</nav>
+	</header>

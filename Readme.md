@@ -34,13 +34,13 @@ Short video explaining how the Internet works, servers, PHP.
 * Print out feature image in index.php.
 
 ## Challenge 3
-* Add a menu location to the theme called 'Primary Menu': https://developer.wordpress.org/themes/functionality/navigation-menus/
-* Add a navigation menu with a home link to header.php.
-* Add a Created by year in footer.php.
+* Add two menu locations to the theme: https://developer.wordpress.org/themes/functionality/navigation-menus/
+* Create a menu with a a link to the homepage and an additional page, and assign it to one of the menu locations.
+* Print out that menu in header.php. 
 
 ## Challenge 4
-* Enqueue our custom style sheet
-* Make the homepage image cover the entire screen using CSS.
+* Enqueue our custom style sheet: 
+* Make the title text be white and be centered over the image.
 
 ## Challenge 5
 * Add a custom font from Google Fonts.
