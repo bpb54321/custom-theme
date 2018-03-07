@@ -33,7 +33,7 @@
 
 ## Challenge 2
 * Enable feature images using instructions on this page: https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
-* Upload a feature image to the home page.
+* Upload a feature image to the home page: https://easywpguide.com/wordpress-manual/adding-images-other-media/setting-a-featured-image/
 * Print out feature image in index.php.
 
 ## Challenge 3
