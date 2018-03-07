@@ -24,9 +24,10 @@
 
 ## Challenge 1
 * Separate out the code into header, index, and footer.
-* Add `wp_head();` to header.php.
-* Add `wp_footer();` in footer.php.
-* Print out the site title using `get_bloginfo('name');`
+* Use the functions `get_header()` and `get_footer()`.
+* Add `wp_head();` to header.php: this injects WP's built-in CSS style sheets.
+* Add `wp_footer();` in footer.php: this injects WP's built-in Javascript scripts.
+* Print out the site title using `echo get_bloginfo('name')`.
 * Create a Home page, add a title and content.
 * Print out the title and the content on your page using: the WordPress functions (template tags) found on this page: https://developer.wordpress.org/themes/basics/the-loop/#what-the-loop-can-display
 
