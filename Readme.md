@@ -5,6 +5,15 @@
 * WordPress Code Reference: https://developer.wordpress.org/reference/
 * Google Fonts: https://fonts.google.com/
 
+## Target Audience
+* Beginner to intermediate, with some prior knowledge of HTML.
+* Go around the group? What are people's experience levels?
+
+## Why Use WordPress?
+* It's one of many Content Management Systems (CMS) which allow you to edit content on the website quickly, without having to write code.
+* It's very widespread and popular, with a large community of users and developers.
+* It's open-source, which means that you can use the software for free, edit it how you like, and run it on any hosting platform that supports PHP.
+
 ## Why build a custom theme?
 * Build a theme because it let's you explore more than what is possible with themes that other people have made.
 * Getting practice with web development skills
@@ -48,5 +57,7 @@
 
 ## Challenge 5
 * Add a custom font from Google Fonts.
+
+
 
 
